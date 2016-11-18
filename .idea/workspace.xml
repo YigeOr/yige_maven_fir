@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9247766-c812-4346-8e75-73a947f4e3aa" name="Default" comment="">
+    <list default="true" id="f9247766-c812-4346-8e75-73a947f4e3aa" name="Default" comment="额  哈哈">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yige_maven_fir.iws" />
@@ -1068,8 +1068,16 @@
       <workItem from="1477969835890" duration="4412000" />
       <workItem from="1478845796758" duration="10930000" />
       <workItem from="1479181619189" duration="1882000" />
-      <workItem from="1479462871483" duration="2020000" />
+      <workItem from="1479462871483" duration="2091000" />
     </task>
+    <task id="LOCAL-00001" summary="额  哈哈">
+      <created>1479464912562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1479464912562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1105,7 +1113,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45356000" />
+    <option name="totallyTimeSpent" value="45427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1192,6 +1200,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="额  哈哈" />
+    <option name="LAST_COMMIT_MESSAGE" value="额  哈哈" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
