@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * @author zhaoyunkang
+ * @author zyk
  * @create 2016-10-21 14:27
  */
 @WebServlet("/helloWorld")

@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author zhaoyunkang
+ * @author zyk
  * @create 2016-10-22 17:11
  */
 @Service("userDao")

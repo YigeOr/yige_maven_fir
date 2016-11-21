@@ -3,7 +3,7 @@ package com.zyk.domain;
 import java.io.Serializable;
 
 /**
- * @author zhaoyunkang
+ * @author zyk
  * @create 2016-10-22 17:11
  */
 public class User implements Serializable{

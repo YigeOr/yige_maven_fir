@@ -18,7 +18,7 @@ import java.io.PrintWriter;
 import java.util.Iterator;
 
 /**
- * @author zhaoyunkang
+ * @author zyk
  * @create 2016-10-21 14:27
  */
 @WebServlet("/helloWorld")

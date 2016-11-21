@@ -11,7 +11,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
 /**
- * @author zhaoyunkang
+ * @author zyk
  * @create 2016-10-22 17:14
  */
 public class UserServiceTest {
